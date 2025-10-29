@@ -1,0 +1,12 @@
+{
+  "name": "en-proceso",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Tarea.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Tarea.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
